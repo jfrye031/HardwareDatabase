@@ -55,7 +55,7 @@ git push
 ```
 
 
-**###Help Guide For Working in GitHub**
+**###Help Guide For Working in GitHub**<br/>
 **Creating a fork from a branch:**
 1. Visit the parent repository
 2. On the top right where it says "Fork", click on the fork icon.
