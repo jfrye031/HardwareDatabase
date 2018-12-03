@@ -55,8 +55,10 @@ git push
 ```
 
 
-###Help Guide For Working in GitHub
-Creating a fork:
+**###Help Guide For Working in GitHub**
+**Creating a fork from a branch:**
 1. Visit the parent repository
 2. On the top right where it says "Fork", click on the fork icon.
 3. A new fork will be created with your username as the fork name.
+4. Other members may fork from either the parent branch, or your fork.
+5. You may make edits to permissions of the fork you created.
