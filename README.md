@@ -53,3 +53,10 @@ git push --set-upstream origin my_example_branch
 ```
 git push
 ```
+
+
+###Help Guide For Working in GitHub
+Creating a fork:
+1. Visit the parent repository
+2. On the top right where it says "Fork", click on the fork icon.
+3. A new fork will be created with your username as the fork name.
